@@ -135,4 +135,6 @@ You should be able to see the command where we created the user "creeper", the p
 
 ![image](https://github.com/amolinaro23/Wireshark/assets/164687651/959a82f0-3006-451f-9f41-8acaa7419e71)
 
-<h2>Step 10 - </h2>
+<h3>Conclusion</h3>
+
+In this lab, I demonstrated the practical uses of Wireshark, a network protocol analyzer. I started by capturing and analyzing network traffic using a Kali Linux VM, then used Wireshark to enumerate hosts and ports to determine OS types and system information. Wireshark allows users to inspect and capture network packets, providing a user interface for filtering and analyzing traffic. This tool is crucial for system administrators to detect nefarious traffic not caught by firewalls or intrusion detection systems, requiring a deep understanding of network protocols for effective analysis.
